@@ -92,8 +92,8 @@ A disk, a Vnet benne maradt, legegyszerűbb, ha az egész resource group-ot tör
 	az group delete --name "resource group neve" --yes
 
 
-_Megjegyzés: Hozz létre Windows és Linux virtuális gépeket is az Azure CLI segítségével._
-A különbség annyi, hogy egy + kapcsoló:
+**Hozz létre Windows és Linux virtuális gépeket is az Azure CLI segítségével._
+A különbség annyi, hogy egy + kapcsolót beiktatunk:
 -- image
 
 Lekérdezni az op rendszereket:
