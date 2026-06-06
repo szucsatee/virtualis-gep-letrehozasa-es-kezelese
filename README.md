@@ -42,6 +42,7 @@ Subnet létrehozás:
 Nem húznám az időt VNet-tel és SubNet-tel... ...
 
 **Hozz létre egy új virtuális gépet az Azure CLI segítségével**
+
 Elérhető location-ok listája:
 
 	az account list-locations --output table
