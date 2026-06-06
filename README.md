@@ -38,6 +38,7 @@ Subnet létrehozás:
 ----kötlező az address-prefixes
 
 
+
 Nem húznám az időt VNet-tel és SubNet-tel... ...
 
 **Hozz létre egy új virtuális gépet az Azure CLI segítségével**
